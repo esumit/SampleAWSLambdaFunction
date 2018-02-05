@@ -24,3 +24,9 @@ Step-6 Go To Monitoring and Click everywhere to see the AWS monitoring offerning
 ![alt tag](https://github.com/esumit/SampleAWSLambdaFunction/blob/master/Images%20To%20Describe%20Step-1%20to%20Step-6/06%20Step-6%20Go%20To%20Monitoring%20and%20Click%20everywhere%20to%20see%20the%20AWS%20monitoring%20offernings%20.png)
 
 If you have done all steps as above then congratulations you know AWS Lambda :-)
+
+So what next ? - Its just running a function and that's it ? - What is the use of it ?
+
+Hmmm
+
+There are many, One of the example one : Connect this with Another feature of AWS name API Gateway , It provides functions to quickly create REST APIs and binds Lambda Function as Backend, and sure Lambda Function can connect to DB as well
