@@ -3,7 +3,7 @@ A Sample AWS Lambda Function to test the logging functioning, and steps to  test
 
 Step-1 Build AWS Lambda Function 
 
-![Optional Text](../master/Images To Describe Step-1 to Step-6/01 Step-1 Build AWS Lambda Function .png)
+![alt tag](https://github.com/esumit/SampleAWSLambdaFunction/blob/master/Images%20To%20Describe%20Step-1%20to%20Step-6/01%20Step-1%20Build%20AWS%20Lambda%20Function%20.png)
 
 Step-2 Login to AWS and Invoke AWS Lambda Console
 
