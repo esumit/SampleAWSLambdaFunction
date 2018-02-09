@@ -1,6 +1,11 @@
 # SampleAWSLambdaFunction
 A Sample AWS Lambda Function to test the logging functioning, and steps to  test the functioning of AWS Lambda within AWS Console.
 
+About AWS Lambda Functions
+-----------------------------
+lets you run code without thinking about servers.
+You pay only for the compute time you consume — there is no charge when your code is not running. With Lambda, you can run code for virtually any type of application or backend service, all with zero administration.
+
 Step-1 Build AWS Lambda Function 
 
 ![alt tag](https://github.com/esumit/SampleAWSLambdaFunction/blob/master/Images%20To%20Describe%20Step-1%20to%20Step-6/01%20Step-1%20Build%20AWS%20Lambda%20Function%20.png)
